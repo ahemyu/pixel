@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Levels tests" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:26" hostname="emre-XPS-15" time="0.259">
+  <properties/>
+  <testcase name="page Red, output dark = 100" classname="pixelitor.filters.levels.LevelsTest" time="0.217"/>
+  <testcase name="defaultSettingsProduceIdentity()" classname="pixelitor.filters.levels.LevelsTest" time="0.004"/>
+  <testcase name="page Red, input light = 150" classname="pixelitor.filters.levels.LevelsTest" time="0.004"/>
+  <testcase name="page Red, input dark = 100" classname="pixelitor.filters.levels.LevelsTest" time="0.004"/>
+  <testcase name="page RGB, input dark = 100" classname="pixelitor.filters.levels.LevelsTest" time="0.004"/>
+  <testcase name="page RGB, input light = 150" classname="pixelitor.filters.levels.LevelsTest" time="0.003"/>
+  <testcase name="page RGB, output dark = 100" classname="pixelitor.filters.levels.LevelsTest" time="0.003"/>
+  <testcase name="page Red, output light = 150" classname="pixelitor.filters.levels.LevelsTest" time="0.003"/>
+  <testcase name="page RGB, output light = 150" classname="pixelitor.filters.levels.LevelsTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

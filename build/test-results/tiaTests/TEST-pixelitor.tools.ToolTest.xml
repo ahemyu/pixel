@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pixelitor.tools.ToolTest" tests="224" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:30" hostname="emre-XPS-15" time="3.152">
+  <properties/>
+  <testcase name="simpleStroke[0: tool = Move Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[1: tool = Move Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[2: tool = Move Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[3: tool = Move Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[4: tool = Move Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[5: tool = Move Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[6: tool = Move Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[7: tool = Move Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[8: tool = Move Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[9: tool = Move Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[10: tool = Move Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[11: tool = Move Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[12: tool = Move Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[13: tool = Move Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[14: tool = Move Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[15: tool = Move Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[16: tool = Crop Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.02"/>
+  <testcase name="simpleStroke[17: tool = Crop Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.017"/>
+  <testcase name="simpleStroke[18: tool = Crop Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.017"/>
+  <testcase name="simpleStroke[19: tool = Crop Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.018"/>
+  <testcase name="simpleStroke[20: tool = Crop Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.017"/>
+  <testcase name="simpleStroke[21: tool = Crop Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.017"/>
+  <testcase name="simpleStroke[22: tool = Crop Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.017"/>
+  <testcase name="simpleStroke[23: tool = Crop Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.016"/>
+  <testcase name="simpleStroke[24: tool = Crop Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.021"/>
+  <testcase name="simpleStroke[25: tool = Crop Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.016"/>
+  <testcase name="simpleStroke[26: tool = Crop Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.016"/>
+  <testcase name="simpleStroke[27: tool = Crop Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.016"/>
+  <testcase name="simpleStroke[28: tool = Crop Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.018"/>
+  <testcase name="simpleStroke[29: tool = Crop Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.016"/>
+  <testcase name="simpleStroke[30: tool = Crop Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.017"/>
+  <testcase name="simpleStroke[31: tool = Crop Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.016"/>
+  <testcase name="simpleStroke[32: tool = Selection Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[33: tool = Selection Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[34: tool = Selection Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[35: tool = Selection Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[36: tool = Selection Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[37: tool = Selection Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[38: tool = Selection Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[39: tool = Selection Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[40: tool = Selection Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[41: tool = Selection Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[42: tool = Selection Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.017"/>
+  <testcase name="simpleStroke[43: tool = Selection Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.017"/>
+  <testcase name="simpleStroke[44: tool = Selection Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[45: tool = Selection Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[46: tool = Selection Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[47: tool = Selection Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[48: tool = Brush Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[49: tool = Brush Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[50: tool = Brush Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[51: tool = Brush Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[52: tool = Brush Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[53: tool = Brush Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[54: tool = Brush Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[55: tool = Brush Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[56: tool = Brush Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[57: tool = Brush Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[58: tool = Brush Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[59: tool = Brush Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[60: tool = Brush Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[61: tool = Brush Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[62: tool = Brush Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.019"/>
+  <testcase name="simpleStroke[63: tool = Brush Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[64: tool = Clone Stamp Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[65: tool = Clone Stamp Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[66: tool = Clone Stamp Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[67: tool = Clone Stamp Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[68: tool = Clone Stamp Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[69: tool = Clone Stamp Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[70: tool = Clone Stamp Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[71: tool = Clone Stamp Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.016"/>
+  <testcase name="simpleStroke[72: tool = Clone Stamp Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[73: tool = Clone Stamp Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[74: tool = Clone Stamp Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[75: tool = Clone Stamp Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[76: tool = Clone Stamp Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[77: tool = Clone Stamp Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.016"/>
+  <testcase name="simpleStroke[78: tool = Clone Stamp Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[79: tool = Clone Stamp Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[80: tool = Eraser Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[81: tool = Eraser Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[82: tool = Eraser Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[83: tool = Eraser Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[84: tool = Eraser Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[85: tool = Eraser Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[86: tool = Eraser Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[87: tool = Eraser Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[88: tool = Eraser Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[89: tool = Eraser Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[90: tool = Eraser Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[91: tool = Eraser Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[92: tool = Eraser Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[93: tool = Eraser Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[94: tool = Eraser Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[95: tool = Eraser Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[96: tool = Smudge Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[97: tool = Smudge Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[98: tool = Smudge Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[99: tool = Smudge Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[100: tool = Smudge Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.017"/>
+  <testcase name="simpleStroke[101: tool = Smudge Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[102: tool = Smudge Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[103: tool = Smudge Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[104: tool = Smudge Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.021"/>
+  <testcase name="simpleStroke[105: tool = Smudge Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[106: tool = Smudge Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[107: tool = Smudge Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[108: tool = Smudge Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[109: tool = Smudge Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[110: tool = Smudge Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[111: tool = Smudge Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[112: tool = Gradient Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.017"/>
+  <testcase name="simpleStroke[113: tool = Gradient Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[114: tool = Gradient Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[115: tool = Gradient Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[116: tool = Gradient Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[117: tool = Gradient Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[118: tool = Gradient Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[119: tool = Gradient Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[120: tool = Gradient Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[121: tool = Gradient Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[122: tool = Gradient Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[123: tool = Gradient Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[124: tool = Gradient Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[125: tool = Gradient Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[126: tool = Gradient Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[127: tool = Gradient Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[128: tool = Paint Bucket Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[129: tool = Paint Bucket Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[130: tool = Paint Bucket Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[131: tool = Paint Bucket Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[132: tool = Paint Bucket Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[133: tool = Paint Bucket Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[134: tool = Paint Bucket Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.008"/>
+  <testcase name="simpleStroke[135: tool = Paint Bucket Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[136: tool = Paint Bucket Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[137: tool = Paint Bucket Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[138: tool = Paint Bucket Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.008"/>
+  <testcase name="simpleStroke[139: tool = Paint Bucket Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.008"/>
+  <testcase name="simpleStroke[140: tool = Paint Bucket Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[141: tool = Paint Bucket Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[142: tool = Paint Bucket Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[143: tool = Paint Bucket Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[144: tool = Color Picker Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[145: tool = Color Picker Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[146: tool = Color Picker Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[147: tool = Color Picker Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[148: tool = Color Picker Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[149: tool = Color Picker Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[150: tool = Color Picker Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[151: tool = Color Picker Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[152: tool = Color Picker Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[153: tool = Color Picker Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[154: tool = Color Picker Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[155: tool = Color Picker Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[156: tool = Color Picker Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[157: tool = Color Picker Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[158: tool = Color Picker Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[159: tool = Color Picker Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[160: tool = Pen Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[161: tool = Pen Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[162: tool = Pen Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[163: tool = Pen Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[164: tool = Pen Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[165: tool = Pen Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[166: tool = Pen Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[167: tool = Pen Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[168: tool = Pen Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[169: tool = Pen Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[170: tool = Pen Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.013"/>
+  <testcase name="simpleStroke[171: tool = Pen Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.014"/>
+  <testcase name="simpleStroke[172: tool = Pen Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.012"/>
+  <testcase name="simpleStroke[173: tool = Pen Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.015"/>
+  <testcase name="simpleStroke[174: tool = Pen Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.017"/>
+  <testcase name="simpleStroke[175: tool = Pen Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.016"/>
+  <testcase name="simpleStroke[176: tool = Shapes Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.045"/>
+  <testcase name="simpleStroke[177: tool = Shapes Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.022"/>
+  <testcase name="simpleStroke[178: tool = Shapes Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.019"/>
+  <testcase name="simpleStroke[179: tool = Shapes Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.018"/>
+  <testcase name="simpleStroke[180: tool = Shapes Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.024"/>
+  <testcase name="simpleStroke[181: tool = Shapes Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.019"/>
+  <testcase name="simpleStroke[182: tool = Shapes Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.019"/>
+  <testcase name="simpleStroke[183: tool = Shapes Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.019"/>
+  <testcase name="simpleStroke[184: tool = Shapes Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.019"/>
+  <testcase name="simpleStroke[185: tool = Shapes Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.019"/>
+  <testcase name="simpleStroke[186: tool = Shapes Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.019"/>
+  <testcase name="simpleStroke[187: tool = Shapes Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.019"/>
+  <testcase name="simpleStroke[188: tool = Shapes Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.021"/>
+  <testcase name="simpleStroke[189: tool = Shapes Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.02"/>
+  <testcase name="simpleStroke[190: tool = Shapes Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.019"/>
+  <testcase name="simpleStroke[191: tool = Shapes Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.018"/>
+  <testcase name="simpleStroke[192: tool = Hand Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[193: tool = Hand Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[194: tool = Hand Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.008"/>
+  <testcase name="simpleStroke[195: tool = Hand Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[196: tool = Hand Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.008"/>
+  <testcase name="simpleStroke[197: tool = Hand Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[198: tool = Hand Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[199: tool = Hand Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[200: tool = Hand Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.008"/>
+  <testcase name="simpleStroke[201: tool = Hand Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[202: tool = Hand Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.008"/>
+  <testcase name="simpleStroke[203: tool = Hand Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.008"/>
+  <testcase name="simpleStroke[204: tool = Hand Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.008"/>
+  <testcase name="simpleStroke[205: tool = Hand Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[206: tool = Hand Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.009"/>
+  <testcase name="simpleStroke[207: tool = Hand Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.008"/>
+  <testcase name="simpleStroke[208: tool = Zoom Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[209: tool = Zoom Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[210: tool = Zoom Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[211: tool = Zoom Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[212: tool = Zoom Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.011"/>
+  <testcase name="simpleStroke[213: tool = Zoom Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[214: tool = Zoom Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[215: tool = Zoom Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[216: tool = Zoom Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[217: tool = Zoom Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[218: tool = Zoom Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[219: tool = Zoom Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[220: tool = Zoom Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[221: tool = Zoom Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[222: tool = Zoom Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <testcase name="simpleStroke[223: tool = Zoom Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]" classname="pixelitor.tools.ToolTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

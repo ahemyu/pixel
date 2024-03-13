@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pixelitor.layers.ContentLayerTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:27" hostname="emre-XPS-15" time="0.293">
+  <properties/>
+  <testcase name="applyLayer[0: layer = class pixelitor.layers.ImageLayer, mask = NO]" classname="pixelitor.layers.ContentLayerTest" time="0.009"/>
+  <testcase name="movingTheLayer[0: layer = class pixelitor.layers.ImageLayer, mask = NO]" classname="pixelitor.layers.ContentLayerTest" time="0.007"/>
+  <testcase name="paintLayerOnGraphics[0: layer = class pixelitor.layers.ImageLayer, mask = NO]" classname="pixelitor.layers.ContentLayerTest" time="0.006"/>
+  <testcase name="setupDrawingComposite[0: layer = class pixelitor.layers.ImageLayer, mask = NO]" classname="pixelitor.layers.ContentLayerTest" time="0.005"/>
+  <testcase name="applyLayer[1: layer = class pixelitor.layers.ImageLayer, mask = YES]" classname="pixelitor.layers.ContentLayerTest" time="0.007"/>
+  <testcase name="movingTheLayer[1: layer = class pixelitor.layers.ImageLayer, mask = YES]" classname="pixelitor.layers.ContentLayerTest" time="0.009"/>
+  <testcase name="paintLayerOnGraphics[1: layer = class pixelitor.layers.ImageLayer, mask = YES]" classname="pixelitor.layers.ContentLayerTest" time="0.007"/>
+  <testcase name="setupDrawingComposite[1: layer = class pixelitor.layers.ImageLayer, mask = YES]" classname="pixelitor.layers.ContentLayerTest" time="0.007"/>
+  <testcase name="applyLayer[2: layer = class pixelitor.layers.TextLayer, mask = NO]" classname="pixelitor.layers.ContentLayerTest" time="0.097"/>
+  <testcase name="movingTheLayer[2: layer = class pixelitor.layers.TextLayer, mask = NO]" classname="pixelitor.layers.ContentLayerTest" time="0.008"/>
+  <testcase name="paintLayerOnGraphics[2: layer = class pixelitor.layers.TextLayer, mask = NO]" classname="pixelitor.layers.ContentLayerTest" time="0.04"/>
+  <testcase name="setupDrawingComposite[2: layer = class pixelitor.layers.TextLayer, mask = NO]" classname="pixelitor.layers.ContentLayerTest" time="0.006"/>
+  <testcase name="applyLayer[3: layer = class pixelitor.layers.TextLayer, mask = YES]" classname="pixelitor.layers.ContentLayerTest" time="0.026"/>
+  <testcase name="movingTheLayer[3: layer = class pixelitor.layers.TextLayer, mask = YES]" classname="pixelitor.layers.ContentLayerTest" time="0.009"/>
+  <testcase name="paintLayerOnGraphics[3: layer = class pixelitor.layers.TextLayer, mask = YES]" classname="pixelitor.layers.ContentLayerTest" time="0.028"/>
+  <testcase name="setupDrawingComposite[3: layer = class pixelitor.layers.TextLayer, mask = YES]" classname="pixelitor.layers.ContentLayerTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

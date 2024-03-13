@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GradientHandles tests" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:26" hostname="emre-XPS-15" time="0.031">
+  <properties/>
+  <testcase name="dragging the end handle moves the center" classname="pixelitor.tools.gradient.GradientHandlesTest" time="0.007"/>
+  <testcase name="translate handles" classname="pixelitor.tools.gradient.GradientHandlesTest" time="0.006"/>
+  <testcase name="zoom handles" classname="pixelitor.tools.gradient.GradientHandlesTest" time="0.007"/>
+  <testcase name="dragging the center handle moves the other two" classname="pixelitor.tools.gradient.GradientHandlesTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

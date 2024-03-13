@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Pen Tool/PathBuilder tests" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:23" hostname="emre-XPS-15" time="1.306">
+  <properties/>
+  <testcase name="open, curved path" classname="pixelitor.tools.pen.PathBuilderTest" time="0.199"/>
+  <testcase name="closed, curved path" classname="pixelitor.tools.pen.PathBuilderTest" time="0.169"/>
+  <testcase name="two-point heart" classname="pixelitor.tools.pen.PathBuilderTest" time="0.09"/>
+  <testcase name="starting with Shift-click" classname="pixelitor.tools.pen.PathBuilderTest" time="0.013"/>
+  <testcase name="undo after mouse press" classname="pixelitor.tools.pen.PathBuilderTest" time="0.012"/>
+  <testcase name="moving position after undoing the closing of a subpath" classname="pixelitor.tools.pen.PathBuilderTest" time="0.152"/>
+  <testcase name="Ctrl-drag on a previous anchor" classname="pixelitor.tools.pen.PathBuilderTest" time="0.095"/>
+  <testcase name="breaking old handles with Alt" classname="pixelitor.tools.pen.PathBuilderTest" time="0.055"/>
+  <testcase name="open, straight path" classname="pixelitor.tools.pen.PathBuilderTest" time="0.061"/>
+  <testcase name="constrained straight path" classname="pixelitor.tools.pen.PathBuilderTest" time="0.022"/>
+  <testcase name="multiple subpaths" classname="pixelitor.tools.pen.PathBuilderTest" time="0.211"/>
+  <testcase name="undo after mouse click" classname="pixelitor.tools.pen.PathBuilderTest" time="0.016"/>
+  <testcase name="constrained curved path" classname="pixelitor.tools.pen.PathBuilderTest" time="0.032"/>
+  <testcase name="closed, straight path" classname="pixelitor.tools.pen.PathBuilderTest" time="0.065"/>
+  <testcase name="Alt-drag on a previous anchor" classname="pixelitor.tools.pen.PathBuilderTest" time="0.087"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

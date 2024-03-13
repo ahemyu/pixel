@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Composition I/O tests" tests="13" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:23" hostname="emre-XPS-15" time="0.276">
+  <properties/>
+  <testcase name="readTGA()" classname="pixelitor.CompositionIOTest" time="0.053"/>
+  <testcase name="readPAM()" classname="pixelitor.CompositionIOTest" time="0.009"/>
+  <testcase name="readTiff()" classname="pixelitor.CompositionIOTest" time="0.02"/>
+  <testcase name="readPNG()" classname="pixelitor.CompositionIOTest" time="0.008"/>
+  <testcase name="readJPEG()" classname="pixelitor.CompositionIOTest" time="0.019"/>
+  <testcase name="readPBM()" classname="pixelitor.CompositionIOTest" time="0.006"/>
+  <testcase name="readPPM()" classname="pixelitor.CompositionIOTest" time="0.006"/>
+  <testcase name="readWriteORA()" classname="pixelitor.CompositionIOTest" time="0.048"/>
+  <testcase name="readGIF()" classname="pixelitor.CompositionIOTest" time="0.007"/>
+  <testcase name="readPGM()" classname="pixelitor.CompositionIOTest" time="0.006"/>
+  <testcase name="readPFM()" classname="pixelitor.CompositionIOTest" time="0.006"/>
+  <testcase name="readWritePXC()" classname="pixelitor.CompositionIOTest" time="0.057"/>
+  <testcase name="readBMP()" classname="pixelitor.CompositionIOTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

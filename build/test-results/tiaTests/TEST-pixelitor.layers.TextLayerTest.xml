@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pixelitor.layers.TextLayerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:29" hostname="emre-XPS-15" time="0.107">
+  <properties/>
+  <testcase name="enlargeCanvas[0: mask = NO]" classname="pixelitor.layers.TextLayerTest" time="0.008"/>
+  <testcase name="commitSettings[0: mask = NO]" classname="pixelitor.layers.TextLayerTest" time="0.009"/>
+  <testcase name="createMovementEdit[0: mask = NO]" classname="pixelitor.layers.TextLayerTest" time="0.007"/>
+  <testcase name="replaceWithRasterized[0: mask = NO]" classname="pixelitor.layers.TextLayerTest" time="0.023"/>
+  <testcase name="enlargeCanvas[1: mask = YES]" classname="pixelitor.layers.TextLayerTest" time="0.008"/>
+  <testcase name="commitSettings[1: mask = YES]" classname="pixelitor.layers.TextLayerTest" time="0.008"/>
+  <testcase name="createMovementEdit[1: mask = YES]" classname="pixelitor.layers.TextLayerTest" time="0.007"/>
+  <testcase name="replaceWithRasterized[1: mask = YES]" classname="pixelitor.layers.TextLayerTest" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

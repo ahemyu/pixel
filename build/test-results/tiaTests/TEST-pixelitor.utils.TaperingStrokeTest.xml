@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pixelitor.utils.TaperingStrokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:25" hostname="emre-XPS-15" time="0.01">
+  <properties/>
+  <testcase name="testingPerpendicularCalculation()" classname="pixelitor.utils.TaperingStrokeTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

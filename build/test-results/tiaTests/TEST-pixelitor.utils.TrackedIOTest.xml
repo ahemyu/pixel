@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pixelitor.utils.TrackedIOTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:21" hostname="emre-XPS-15" time="0.047">
+  <properties/>
+  <testcase name="5000x2000 image =&gt; 50 cols" classname="pixelitor.utils.TrackedIOTest" time="0.043"/>
+  <testcase name="2000x5000 image =&gt; 50 cols" classname="pixelitor.utils.TrackedIOTest" time="0.001"/>
+  <testcase name="250x250 image =&gt; 3 cols" classname="pixelitor.utils.TrackedIOTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

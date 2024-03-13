@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ParamState tests" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:25" hostname="emre-XPS-15" time="0.01">
+  <properties/>
+  <testcase name="#1: interpolate between AngleParamState[angle=-0.0] and AngleParamState[angle=180.0]" classname="pixelitor.filters.gui.ParamStateTest" time="0.0"/>
+  <testcase name="#2: interpolate between RangeParamState[value=10.00] and RangeParamState[value=100.00]" classname="pixelitor.filters.gui.ParamStateTest" time="0.001"/>
+  <testcase name="#3: interpolate between GroupedRangeParamState[values=[D@58e61e18, linked=true] and GroupedRangeParamState[values=[D@6d9f624, linked=true]" classname="pixelitor.filters.gui.ParamStateTest" time="0.0"/>
+  <testcase name="#4: interpolate between GradientParamState[thumbPositions=[F@49d658bf, colors=[Ljava.awt.Color;@21288943] and GradientParamState[thumbPositions=[F@68893394, colors=[Ljava.awt.Color;@3a89f2a0]" classname="pixelitor.filters.gui.ParamStateTest" time="0.001"/>
+  <testcase name="#5: interpolate between ImagePositionParamState[relativeX=0.10000000149011612, relativeY=0.0] and ImagePositionParamState[relativeX=0.8999999761581421, relativeY=1.0]" classname="pixelitor.filters.gui.ParamStateTest" time="0.0"/>
+  <testcase name="#6: interpolate between ColorParamState[color=java.awt.Color[r=255,g=0,b=0]] and ColorParamState[color=java.awt.Color[r=0,g=0,b=255]]" classname="pixelitor.filters.gui.ParamStateTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

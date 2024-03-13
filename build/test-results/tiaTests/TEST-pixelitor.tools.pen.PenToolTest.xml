@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Pen Tool tests" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:25" hostname="emre-XPS-15" time="0.121">
+  <properties/>
+  <testcase name="convert path to selection (build mode)" classname="pixelitor.tools.pen.PenToolTest" time="0.02"/>
+  <testcase name="undo an edit-mode change in build-mode" classname="pixelitor.tools.pen.PenToolTest" time="0.013"/>
+  <testcase name="convert selection to path" classname="pixelitor.tools.pen.PenToolTest" time="0.026"/>
+  <testcase name="convert path to selection (edit mode)" classname="pixelitor.tools.pen.PenToolTest" time="0.019"/>
+  <testcase name="undo a build-mode change in edit-mode" classname="pixelitor.tools.pen.PenToolTest" time="0.019"/>
+  <testcase name="delete subpath and path in edit mode" classname="pixelitor.tools.pen.PenToolTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

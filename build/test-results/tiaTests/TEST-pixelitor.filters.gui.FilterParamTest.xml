@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pixelitor.filters.gui.FilterParamTest" tests="126" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:27" hostname="emre-XPS-15" time="0.641">
+  <properties/>
+  <testcase name="copyState_setState[0: param = RangeParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_true[0: param = RangeParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="randomize[0: param = RangeParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.002"/>
+  <testcase name="GUI_test[0: param = RangeParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.009"/>
+  <testcase name="reset_false[0: param = RangeParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="simpleMethodsDontRunFilter[0: param = RangeParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.005"/>
+  <testcase name="getNumLayoutColumns[0: param = RangeParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.006"/>
+  <testcase name="copyState_setState[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_true[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="randomize[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="GUI_test[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.009"/>
+  <testcase name="reset_false[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="simpleMethodsDontRunFilter[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.006"/>
+  <testcase name="getNumLayoutColumns[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.005"/>
+  <testcase name="copyState_setState[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_true[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="randomize[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="GUI_test[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.011"/>
+  <testcase name="reset_false[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="simpleMethodsDontRunFilter[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.006"/>
+  <testcase name="getNumLayoutColumns[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.007"/>
+  <testcase name="copyState_setState[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.002"/>
+  <testcase name="reset_true[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="randomize[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.002"/>
+  <testcase name="GUI_test[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.007"/>
+  <testcase name="reset_false[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="simpleMethodsDontRunFilter[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.007"/>
+  <testcase name="getNumLayoutColumns[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.008"/>
+  <testcase name="copyState_setState[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="reset_true[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="randomize[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="GUI_test[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.011"/>
+  <testcase name="reset_false[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="simpleMethodsDontRunFilter[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.007"/>
+  <testcase name="getNumLayoutColumns[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.007"/>
+  <testcase name="copyState_setState[5: param = GradientParam[name = 'Param Name']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_true[5: param = GradientParam[name = 'Param Name']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="randomize[5: param = GradientParam[name = 'Param Name']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.002"/>
+  <testcase name="GUI_test[5: param = GradientParam[name = 'Param Name']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="reset_false[5: param = GradientParam[name = 'Param Name']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="simpleMethodsDontRunFilter[5: param = GradientParam[name = 'Param Name']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="getNumLayoutColumns[5: param = GradientParam[name = 'Param Name']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="copyState_setState[6: param = TextParam[name = 'Param Name', text = 'default text']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="reset_true[6: param = TextParam[name = 'Param Name', text = 'default text']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="randomize[6: param = TextParam[name = 'Param Name', text = 'default text']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="GUI_test[6: param = TextParam[name = 'Param Name', text = 'default text']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.002"/>
+  <testcase name="reset_false[6: param = TextParam[name = 'Param Name', text = 'default text']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="simpleMethodsDontRunFilter[6: param = TextParam[name = 'Param Name', text = 'default text']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="getNumLayoutColumns[6: param = TextParam[name = 'Param Name', text = 'default text']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="copyState_setState[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_true[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="randomize[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="GUI_test[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.014"/>
+  <testcase name="reset_false[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="simpleMethodsDontRunFilter[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="getNumLayoutColumns[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="copyState_setState[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_true[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="randomize[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="GUI_test[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="reset_false[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="simpleMethodsDontRunFilter[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="getNumLayoutColumns[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="copyState_setState[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_true[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="randomize[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.002"/>
+  <testcase name="GUI_test[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_false[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.002"/>
+  <testcase name="simpleMethodsDontRunFilter[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="getNumLayoutColumns[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="copyState_setState[10: param = BooleanParam[name = 'Param Name', currentValue = true]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_true[10: param = BooleanParam[name = 'Param Name', currentValue = true]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="randomize[10: param = BooleanParam[name = 'Param Name', currentValue = true]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.002"/>
+  <testcase name="GUI_test[10: param = BooleanParam[name = 'Param Name', currentValue = true]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.002"/>
+  <testcase name="reset_false[10: param = BooleanParam[name = 'Param Name', currentValue = true]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.002"/>
+  <testcase name="simpleMethodsDontRunFilter[10: param = BooleanParam[name = 'Param Name', currentValue = true]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="getNumLayoutColumns[10: param = BooleanParam[name = 'Param Name', currentValue = true]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="copyState_setState[11: param = AngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_true[11: param = AngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.006"/>
+  <testcase name="randomize[11: param = AngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.002"/>
+  <testcase name="GUI_test[11: param = AngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.007"/>
+  <testcase name="reset_false[11: param = AngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="simpleMethodsDontRunFilter[11: param = AngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="getNumLayoutColumns[11: param = AngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="copyState_setState[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_true[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="randomize[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.002"/>
+  <testcase name="GUI_test[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.005"/>
+  <testcase name="reset_false[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="simpleMethodsDontRunFilter[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.005"/>
+  <testcase name="getNumLayoutColumns[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.005"/>
+  <testcase name="copyState_setState[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_true[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="randomize[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="GUI_test[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.006"/>
+  <testcase name="reset_false[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="simpleMethodsDontRunFilter[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="getNumLayoutColumns[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="copyState_setState[14: param = pixelitor.filters.gui.StrokeParam@b787274]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_true[14: param = pixelitor.filters.gui.StrokeParam@b787274]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="randomize[14: param = pixelitor.filters.gui.StrokeParam@b787274]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="GUI_test[14: param = pixelitor.filters.gui.StrokeParam@b787274]" classname="pixelitor.filters.gui.FilterParamTest" time="0.006"/>
+  <testcase name="reset_false[14: param = pixelitor.filters.gui.StrokeParam@b787274]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="simpleMethodsDontRunFilter[14: param = pixelitor.filters.gui.StrokeParam@b787274]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="getNumLayoutColumns[14: param = pixelitor.filters.gui.StrokeParam@b787274]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="copyState_setState[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]" classname="pixelitor.filters.gui.FilterParamTest" time="0.028"/>
+  <testcase name="reset_true[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="randomize[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="GUI_test[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="reset_false[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="simpleMethodsDontRunFilter[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="getNumLayoutColumns[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="copyState_setState[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]" classname="pixelitor.filters.gui.FilterParamTest" time="0.004"/>
+  <testcase name="reset_true[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="randomize[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="GUI_test[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_false[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="simpleMethodsDontRunFilter[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="getNumLayoutColumns[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="copyState_setState[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="reset_true[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="randomize[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="GUI_test[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.005"/>
+  <testcase name="reset_false[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.003"/>
+  <testcase name="simpleMethodsDontRunFilter[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.005"/>
+  <testcase name="getNumLayoutColumns[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]" classname="pixelitor.filters.gui.FilterParamTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

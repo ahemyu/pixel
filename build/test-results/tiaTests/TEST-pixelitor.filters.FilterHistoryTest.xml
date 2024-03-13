@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Filter History Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:21" hostname="emre-XPS-15" time="0.398">
+  <properties/>
+  <testcase name="[1] NO, NO" classname="pixelitor.filters.FilterHistoryTest" time="0.36"/>
+  <testcase name="[2] YES, NO" classname="pixelitor.filters.FilterHistoryTest" time="0.011"/>
+  <testcase name="[3] NO, YES" classname="pixelitor.filters.FilterHistoryTest" time="0.012"/>
+  <testcase name="[4] YES, YES" classname="pixelitor.filters.FilterHistoryTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RandomFilterSource tests" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:23" hostname="emre-XPS-15" time="0.033">
+  <properties/>
+  <testcase name="multipleBackForward()" classname="pixelitor.filters.RandomFilterSourceTest" time="0.009"/>
+  <testcase name="newSource()" classname="pixelitor.filters.RandomFilterSourceTest" time="0.003"/>
+  <testcase name="generateWhenBackInHistory()" classname="pixelitor.filters.RandomFilterSourceTest" time="0.006"/>
+  <testcase name="afterOne()" classname="pixelitor.filters.RandomFilterSourceTest" time="0.004"/>
+  <testcase name="afterTwo()" classname="pixelitor.filters.RandomFilterSourceTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Composition tests" tests="21" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:25" hostname="emre-XPS-15" time="0.247">
+  <properties/>
+  <testcase name="translationWithDuplicating()" classname="pixelitor.CompositionTest" time="0.02"/>
+  <testcase name="translationWODuplicating()" classname="pixelitor.CompositionTest" time="0.016"/>
+  <testcase name="addLayerInInitMode()" classname="pixelitor.CompositionTest" time="0.01"/>
+  <testcase name="intersectSelection()" classname="pixelitor.CompositionTest" time="0.01"/>
+  <testcase name="changeLayerIndex()" classname="pixelitor.CompositionTest" time="0.009"/>
+  <testcase name="duplicateActiveLayer()" classname="pixelitor.CompositionTest" time="0.01"/>
+  <testcase name="deselect()" classname="pixelitor.CompositionTest" time="0.008"/>
+  <testcase name="mergeActiveLayerDown()" classname="pixelitor.CompositionTest" time="0.009"/>
+  <testcase name="addNewEmptyLayer()" classname="pixelitor.CompositionTest" time="0.01"/>
+  <testcase name="isActive()" classname="pixelitor.CompositionTest" time="0.009"/>
+  <testcase name="addNewLayerFromComposite()" classname="pixelitor.CompositionTest" time="0.009"/>
+  <testcase name="deleteActiveLayer()" classname="pixelitor.CompositionTest" time="0.009"/>
+  <testcase name="layerAdder()" classname="pixelitor.CompositionTest" time="0.015"/>
+  <testcase name="deleteLayer()" classname="pixelitor.CompositionTest" time="0.011"/>
+  <testcase name="createSelectionFromShape()" classname="pixelitor.CompositionTest" time="0.008"/>
+  <testcase name="moveLayerSelection()" classname="pixelitor.CompositionTest" time="0.01"/>
+  <testcase name="setActiveLayer()" classname="pixelitor.CompositionTest" time="0.008"/>
+  <testcase name="generateNewLayerName()" classname="pixelitor.CompositionTest" time="0.007"/>
+  <testcase name="movingTheActiveLayer()" classname="pixelitor.CompositionTest" time="0.012"/>
+  <testcase name="invertSelection()" classname="pixelitor.CompositionTest" time="0.01"/>
+  <testcase name="flattenImage()" classname="pixelitor.CompositionTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

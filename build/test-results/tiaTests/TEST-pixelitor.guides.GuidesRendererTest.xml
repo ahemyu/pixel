@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GuidesRenderer tests" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:25" hostname="emre-XPS-15" time="0.014">
+  <properties/>
+  <testcase name="drawInSingleStrokeMode()" classname="pixelitor.guides.GuidesRendererTest" time="0.004"/>
+  <testcase name="drawNone()" classname="pixelitor.guides.GuidesRendererTest" time="0.003"/>
+  <testcase name="drawInDoubleStrokeMode()" classname="pixelitor.guides.GuidesRendererTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

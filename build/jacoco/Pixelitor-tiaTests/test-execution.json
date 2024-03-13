@@ -1,0 +1,4072 @@
+[
+	{
+		"durationMillis": 82,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/utils/TrackedIOTest/calcSubsamplingCols(int, int, int)"
+	},
+	{
+		"durationMillis": 577,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/FilterHistoryTest/filterHistory(WithTranslation, WithSelection)"
+	},
+	{
+		"durationMillis": 275,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/linearDodge()"
+	},
+	{
+		"durationMillis": 37,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/lighten()"
+	},
+	{
+		"durationMillis": 32,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/hue()"
+	},
+	{
+		"durationMillis": 31,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/saturation()"
+	},
+	{
+		"durationMillis": 30,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/colorDodge()"
+	},
+	{
+		"durationMillis": 25,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/screen()"
+	},
+	{
+		"durationMillis": 28,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/difference()"
+	},
+	{
+		"durationMillis": 28,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/overlay()"
+	},
+	{
+		"durationMillis": 26,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/darken()"
+	},
+	{
+		"durationMillis": 27,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/luminosity()"
+	},
+	{
+		"durationMillis": 16,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/normal()"
+	},
+	{
+		"durationMillis": 26,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/softLight()"
+	},
+	{
+		"durationMillis": 23,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/color()"
+	},
+	{
+		"durationMillis": 24,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/hardLight()"
+	},
+	{
+		"durationMillis": 24,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/multiply()"
+	},
+	{
+		"durationMillis": 25,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/colorBurn()"
+	},
+	{
+		"durationMillis": 24,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerBlendingModesTest/exclusion()"
+	},
+	{
+		"durationMillis": 50,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionIOTest/readTGA()"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionIOTest/readPAM()"
+	},
+	{
+		"durationMillis": 16,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionIOTest/readTiff()"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionIOTest/readPNG()"
+	},
+	{
+		"durationMillis": 16,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionIOTest/readJPEG()"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionIOTest/readPBM()"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionIOTest/readPPM()"
+	},
+	{
+		"durationMillis": 43,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionIOTest/readWriteORA()"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionIOTest/readGIF()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionIOTest/readPGM()"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionIOTest/readPFM()"
+	},
+	{
+		"durationMillis": 52,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionIOTest/readWritePXC()"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionIOTest/readBMP()"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/RandomFilterSourceTest/multipleBackForward()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/RandomFilterSourceTest/newSource()"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/RandomFilterSourceTest/generateWhenBackInHistory()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/RandomFilterSourceTest/afterOne()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/RandomFilterSourceTest/afterTwo()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/RangeParamTest/invalidArgsMinBiggerThanMax()"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/RangeParamTest/invalidArgsDefaultSmallerThanMin()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/RangeParamTest/invalidArgsDefaultBiggerThanMax()"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/RangeParamTest/setValue()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/RangeParamTest/isIgnoreRandomizeWorking()"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/RangeParamTest/invalidArgsMinIsMax()"
+	},
+	{
+		"durationMillis": 191,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/openCurvedPath()"
+	},
+	{
+		"durationMillis": 163,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/closedCurvedPath()"
+	},
+	{
+		"durationMillis": 86,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/buildingTwoPointHeart()"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/startingWithShiftClick()"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/undoAfterMousePressed()"
+	},
+	{
+		"durationMillis": 148,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/movingPositionAfterUndoingCloseMustBeAtMouse()"
+	},
+	{
+		"durationMillis": 90,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/movingPreviousAnchorsWithCtrl()"
+	},
+	{
+		"durationMillis": 51,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/breakingOldHandlesWithAlt()"
+	},
+	{
+		"durationMillis": 57,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/openStraightPath()"
+	},
+	{
+		"durationMillis": 19,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/constrainedStraightPath()"
+	},
+	{
+		"durationMillis": 203,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/multipleSubPaths()"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/undoAfterMouseClicked()"
+	},
+	{
+		"durationMillis": 27,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/constrainedCurvedPath()"
+	},
+	{
+		"durationMillis": 60,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/closedStraightPath()"
+	},
+	{
+		"durationMillis": 83,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathBuilderTest/altDragOnPreviousAnchor()"
+	},
+	{
+		"durationMillis": 86,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathTest/conversionsForRectangle()"
+	},
+	{
+		"durationMillis": 13,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathTest/transform()"
+	},
+	{
+		"durationMillis": 13,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathTest/conversionsForEllipse()"
+	},
+	{
+		"durationMillis": 17,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PathTest/deletingSubPathPoints()"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/guides/GuidesTest/addVerRelative()"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/guides/GuidesTest/addHorAbsolute()"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/guides/GuidesTest/addVerAbsolute()"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/guides/GuidesTest/addHorRelative()"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/guides/GuidesTest/addRelativeGrid()"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/utils/TaperingStrokeTest/testingPerpendicularCalculation()"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CompositionGuideTest/draw_Type_GRID_less_than_2xSize()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CompositionGuideTest/draw_Type_GRID_more_than_2xSize()"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CompositionGuideTest/draw_Type_RULE_OF_THIRDS()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CompositionGuideTest/draw_Type_GRID_exact_2xSize()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CompositionGuideTest/draw_Type_DIAGONALS_width_gt_height()"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CompositionGuideTest/draw_Type_GOLDEN_SECTIONS()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CompositionGuideTest/draw_Type_TRIANGLES_top_left_to_bottom_down()"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CompositionGuideTest/draw_Type_SPIRAL_orientation_0()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CompositionGuideTest/draw_Type_TRIANGLES_bottom_down_to_top_left()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CompositionGuideTest/draw_Type_DIAGONALS_height_gt_width()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CompositionGuideTest/draw_Type_NONE()"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/transform/TransformBoxTest/moveSEFromInitialState()"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/transform/TransformBoxTest/pureTranslation()"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/transform/TransformBoxTest/pureScaling()"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/transform/TransformBoxTest/calcAngleCursorOffset()"
+	},
+	{
+		"durationMillis": 12,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/transform/TransformBoxTest/imageSpaceRotation()"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/transform/TransformBoxTest/moveNWFromInitialState()"
+	},
+	{
+		"durationMillis": 26,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/transform/TransformBoxTest/cursorAfterTurnedInsideOut()"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/transform/TransformBoxTest/pureRotation()"
+	},
+	{
+		"durationMillis": 27,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/ParamStateTest/interpolate(ParamState, ParamState)"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/guides/GuideStyleTest/strokeType()"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/guides/GuideStyleTest/strokeGetters()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/guides/GuideStyleTest/colorA()"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/guides/GuideStyleTest/colorB()"
+	},
+	{
+		"durationMillis": 24,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/NewImageTest/createNewComposition(FillType)"
+	},
+	{
+		"durationMillis": 66,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/history/TwoLimitsUndoManagerTest/overFillingLightEditsUndoManager()"
+	},
+	{
+		"durationMillis": 16,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/history/TwoLimitsUndoManagerTest/fillingUpUndoManager()"
+	},
+	{
+		"durationMillis": 20,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/history/TwoLimitsUndoManagerTest/overFillingHeavyEditsUndoManager()"
+	},
+	{
+		"durationMillis": 17,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PenToolTest/convertBuiltPathToSelection()"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PenToolTest/undoEditModeChangeInBuildMode()"
+	},
+	{
+		"durationMillis": 22,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PenToolTest/convertSelectionToPath()"
+	},
+	{
+		"durationMillis": 16,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PenToolTest/convertEditPathToSelection()"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PenToolTest/undoBuildModeChangeInEditMode()"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/pen/PenToolTest/deleteSubPathAndPathInEditMode()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/guides/GuidesRendererTest/drawInSingleStrokeMode()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/guides/GuidesRendererTest/drawNone()"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/guides/GuidesRendererTest/drawInDoubleStrokeMode()"
+	},
+	{
+		"durationMillis": 17,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/translationWithDuplicating()"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/translationWODuplicating()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/addLayerInInitMode()"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/intersectSelection()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/changeLayerIndex()"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/duplicateActiveLayer()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/deselect()"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/mergeActiveLayerDown()"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/addNewEmptyLayer()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/isActive()"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/addNewLayerFromComposite()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/deleteActiveLayer()"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/layerAdder()"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/deleteLayer()"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/createSelectionFromShape()"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/moveLayerSelection()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/setActiveLayer()"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/generateNewLayerName()"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/movingTheActiveLayer()"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/invertSelection()"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/CompositionTest/flattenImage()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/IntChoiceParamTest/setSelectedItem()"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/IntChoiceParamTest/isIgnoreRandomizeWorking()"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/ParamSetTest/hasGradient()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/ParamSetTest/copyState_setState()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/ParamSetTest/setFinalAnimationSettingMode()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/ParamSetTest/filterTriggering()"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/ParamSetTest/randomize()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/ParamSetTest/reset()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/ParamSetTest/canBeAnimated()"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CropBoxTest/resize_by_south_east_handle()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CropBoxTest/resize_by_north_west_handle()"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CropBoxTest/keepAspectRatio_by_west_or_east_handle()"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CropBoxTest/keepAspectRatio_by_north_west_handle()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CropBoxTest/resize_by_north_handle()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CropBoxTest/resize_by_east_handle()"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CropBoxTest/resize_by_west_handle()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CropBoxTest/resize_by_south_handle()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CropBoxTest/keepAspectRatio_by_north_east_handle()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CropBoxTest/aspectRatio()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CropBoxTest/keepAspectRatio_by_north_or_south_handle()"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CropBoxTest/resize_by_south_west_handle()"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/crop/CropBoxTest/resize_by_north_east_handle()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/gradient/GradientHandlesTest/endMovesTheCenter()"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/gradient/GradientHandlesTest/imCoordsChanged_translate()"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/gradient/GradientHandlesTest/imCoordsChanged_scale()"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/gradient/GradientHandlesTest/centerMovesTheOtherTwo()"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/history/PixelitorUndoManagerTest/jumpingOneStepBySelection()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/history/PixelitorUndoManagerTest/jumpingTwoStepsBySelection()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/history/PixelitorUndoManagerTest/undoEverythingThenSelect()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/history/PixelitorUndoManagerTest/undoingAndRedoingEverythingAdjustsSelection()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/BooleanParamTest/setValue()"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/BooleanParamTest/isIgnoreRandomizeWorking()"
+	},
+	{
+		"durationMillis": 15,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/utils/ShapesTest/convertEllipse()"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/utils/ShapesTest/toPositiveRect_fromRectangle_whenHeightNegative()"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/utils/ShapesTest/toPositiveRect_fromRectangle_whenWidthHeightNegative()"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/utils/ShapesTest/toPositiveRect_fromRectangle_whenWidthNegative()"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/utils/ShapesTest/convertRectangle()"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/utils/ShapesTest/toPositiveRect_fromRectangle_whenWidthHeightPositive()"
+	},
+	{
+		"durationMillis": 215,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/levels/LevelsTest/pageR_outputDark100()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/levels/LevelsTest/defaultSettingsProduceIdentity()"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/levels/LevelsTest/pageR_inputLight150()"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/levels/LevelsTest/pageR_inputDark100()"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/levels/LevelsTest/pageRGB_inputDark100()"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/levels/LevelsTest/pageRGB_inputLight150()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/levels/LevelsTest/pageRGB_outputDark100()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/levels/LevelsTest/pageR_outputLight150()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/levels/LevelsTest/pageRGB_outputLight150()"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/utils/UtilsTest/angleFunctions()"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/flipHorizontal[0: translation = NO, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate180[0: translation = NO, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate270[0: translation = NO, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 12,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/resize[0: translation = NO, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 12,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/enlargeCanvas[0: translation = NO, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate90[0: translation = NO, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 19,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/crop[0: translation = NO, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/flipVertical[0: translation = NO, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 12,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/flipHorizontal[1: translation = YES, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate180[1: translation = YES, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate270[1: translation = YES, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/resize[1: translation = YES, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/enlargeCanvas[1: translation = YES, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate90[1: translation = YES, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 17,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/crop[1: translation = YES, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/flipVertical[1: translation = YES, selection = NO, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/flipHorizontal[2: translation = YES, selection = YES, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate180[2: translation = YES, selection = YES, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate270[2: translation = YES, selection = YES, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/resize[2: translation = YES, selection = YES, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/enlargeCanvas[2: translation = YES, selection = YES, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate90[2: translation = YES, selection = YES, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 41,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/crop[2: translation = YES, selection = YES, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/flipVertical[2: translation = YES, selection = YES, mask = NO, layers = ONE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/flipHorizontal[3: translation = YES, selection = YES, mask = YES, layers = ONE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate180[3: translation = YES, selection = YES, mask = YES, layers = ONE]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate270[3: translation = YES, selection = YES, mask = YES, layers = ONE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/resize[3: translation = YES, selection = YES, mask = YES, layers = ONE]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/enlargeCanvas[3: translation = YES, selection = YES, mask = YES, layers = ONE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate90[3: translation = YES, selection = YES, mask = YES, layers = ONE]"
+	},
+	{
+		"durationMillis": 31,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/crop[3: translation = YES, selection = YES, mask = YES, layers = ONE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/flipVertical[3: translation = YES, selection = YES, mask = YES, layers = ONE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/flipHorizontal[4: translation = YES, selection = YES, mask = YES, layers = MORE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate180[4: translation = YES, selection = YES, mask = YES, layers = MORE]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate270[4: translation = YES, selection = YES, mask = YES, layers = MORE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/resize[4: translation = YES, selection = YES, mask = YES, layers = MORE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/enlargeCanvas[4: translation = YES, selection = YES, mask = YES, layers = MORE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/rotate90[4: translation = YES, selection = YES, mask = YES, layers = MORE]"
+	},
+	{
+		"durationMillis": 34,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/crop[4: translation = YES, selection = YES, mask = YES, layers = MORE]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/compactions/CompActionTest/flipVertical[4: translation = YES, selection = YES, mask = YES, layers = MORE]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[0: param = RangeParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[0: param = RangeParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[0: param = RangeParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[0: param = RangeParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[0: param = RangeParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[0: param = RangeParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[0: param = RangeParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[1: param = RangeWithColorsParam[name = 'Param Name', value = 0.00]]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[2: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[3: param = GroupedRangeParam[RangeParam[name = 'Horizontal', value = 0.00],RangeParam[name = 'Vertical', value = 0.00]]]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[4: param = ImagePositionParam[name = 'Param Name', relativeX= 0.50, relativeY= 0.50]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[5: param = GradientParam[name = 'Param Name']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[5: param = GradientParam[name = 'Param Name']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[5: param = GradientParam[name = 'Param Name']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[5: param = GradientParam[name = 'Param Name']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[5: param = GradientParam[name = 'Param Name']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[5: param = GradientParam[name = 'Param Name']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[5: param = GradientParam[name = 'Param Name']]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[6: param = TextParam[name = 'Param Name', text = 'default text']]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[6: param = TextParam[name = 'Param Name', text = 'default text']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[6: param = TextParam[name = 'Param Name', text = 'default text']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[6: param = TextParam[name = 'Param Name', text = 'default text']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[6: param = TextParam[name = 'Param Name', text = 'default text']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[6: param = TextParam[name = 'Param Name', text = 'default text']]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[6: param = TextParam[name = 'Param Name', text = 'default text']]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[7: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=0]']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[8: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=255,g=255,b=255]']]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[9: param = ColorParam[name = 'Param Name', color = 'java.awt.Color[r=0,g=0,b=255]']]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[10: param = BooleanParam[name = 'Param Name', currentValue = true]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[10: param = BooleanParam[name = 'Param Name', currentValue = true]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[10: param = BooleanParam[name = 'Param Name', currentValue = true]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[10: param = BooleanParam[name = 'Param Name', currentValue = true]]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[10: param = BooleanParam[name = 'Param Name', currentValue = true]]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[10: param = BooleanParam[name = 'Param Name', currentValue = true]]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[10: param = BooleanParam[name = 'Param Name', currentValue = true]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[11: param = AngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[11: param = AngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[11: param = AngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[11: param = AngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[11: param = AngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[11: param = AngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[11: param = AngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[12: param = ElevationAngleParam[name = 'Param Name', angle = 0.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[13: param = IntChoiceParam[name = 'Param Name', selected = 'Better']]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[14: param = pixelitor.filters.gui.StrokeParam@b787274]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[14: param = pixelitor.filters.gui.StrokeParam@b787274]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[14: param = pixelitor.filters.gui.StrokeParam@b787274]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[14: param = pixelitor.filters.gui.StrokeParam@b787274]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[14: param = pixelitor.filters.gui.StrokeParam@b787274]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[14: param = pixelitor.filters.gui.StrokeParam@b787274]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[14: param = pixelitor.filters.gui.StrokeParam@b787274]"
+	},
+	{
+		"durationMillis": 24,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[15: param = pixelitor.filters.gui.EffectsParam@4ec616d6]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[16: param = pixelitor.filters.gui.DialogParam@55b45ea1]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/copyState_setState[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_true[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]"
+	},
+	{
+		"durationMillis": 0,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/randomize[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/GUI_test[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]"
+	},
+	{
+		"durationMillis": 1,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/reset_false[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/simpleMethodsDontRunFilter[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/filters/gui/FilterParamTest/getNumLayoutColumns[17: param = LogZoomParam[name = 'Param Name', value = 200.00]]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/applyLayer[0: layer = class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/movingTheLayer[0: layer = class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/paintLayerOnGraphics[0: layer = class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/setupDrawingComposite[0: layer = class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/applyLayer[1: layer = class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/movingTheLayer[1: layer = class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/paintLayerOnGraphics[1: layer = class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/setupDrawingComposite[1: layer = class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 92,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/applyLayer[2: layer = class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/movingTheLayer[2: layer = class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 36,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/paintLayerOnGraphics[2: layer = class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/setupDrawingComposite[2: layer = class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 21,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/applyLayer[3: layer = class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/movingTheLayer[3: layer = class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 25,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/paintLayerOnGraphics[3: layer = class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ContentLayerTest/setupDrawingComposite[3: layer = class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getContentBounds[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/applyLayerMask[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_deletePixels_noGrowing[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingStarted[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_deletePixels_withGrowing[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingRightDown[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getCanvasSizedSubImage[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingEnded_Fail[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getSetImage[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/filterWithoutDialogFinished[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changeImageForUndoRedo[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/enlargeCanvas[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogAccepted[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getSelectedSubImage[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tmpDrawingLayer[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getFilterSourceImage[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingEnded_OK[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_noGrowing[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/createCanvasSizedTmpImage[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingDown[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingLeft[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/createMovementEdit[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/duplicate[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changePreviewImage_OK[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getImageForFilterDialogs[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changePreviewImage_Fail[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/cropToCanvasSize[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/startPreviewing[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogCanceled_OK[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogCanceled_Fail[0: mask = NO, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getContentBounds[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/applyLayerMask[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_deletePixels_noGrowing[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingStarted[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_deletePixels_withGrowing[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingRightDown[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getCanvasSizedSubImage[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingEnded_Fail[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getSetImage[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/filterWithoutDialogFinished[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changeImageForUndoRedo[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/enlargeCanvas[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogAccepted[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getSelectedSubImage[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tmpDrawingLayer[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getFilterSourceImage[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingEnded_OK[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_noGrowing[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/createCanvasSizedTmpImage[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingDown[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingLeft[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/createMovementEdit[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/duplicate[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changePreviewImage_OK[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getImageForFilterDialogs[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changePreviewImage_Fail[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/cropToCanvasSize[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/startPreviewing[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogCanceled_OK[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogCanceled_Fail[1: mask = YES, transl = NO, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getContentBounds[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/applyLayerMask[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_deletePixels_noGrowing[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingStarted[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_deletePixels_withGrowing[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingRightDown[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getCanvasSizedSubImage[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingEnded_Fail[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getSetImage[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/filterWithoutDialogFinished[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changeImageForUndoRedo[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/enlargeCanvas[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogAccepted[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getSelectedSubImage[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tmpDrawingLayer[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getFilterSourceImage[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingEnded_OK[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_noGrowing[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/createCanvasSizedTmpImage[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingDown[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingLeft[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/createMovementEdit[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/duplicate[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changePreviewImage_OK[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getImageForFilterDialogs[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changePreviewImage_Fail[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/cropToCanvasSize[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/startPreviewing[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogCanceled_OK[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogCanceled_Fail[2: mask = NO, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getContentBounds[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/applyLayerMask[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_deletePixels_noGrowing[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingStarted[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_deletePixels_withGrowing[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingRightDown[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getCanvasSizedSubImage[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingEnded_Fail[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getSetImage[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/filterWithoutDialogFinished[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changeImageForUndoRedo[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/enlargeCanvas[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogAccepted[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getSelectedSubImage[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tmpDrawingLayer[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getFilterSourceImage[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingEnded_OK[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_noGrowing[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/createCanvasSizedTmpImage[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingDown[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingLeft[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/createMovementEdit[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/duplicate[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changePreviewImage_OK[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getImageForFilterDialogs[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changePreviewImage_Fail[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/cropToCanvasSize[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/startPreviewing[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogCanceled_OK[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogCanceled_Fail[3: mask = YES, transl = YES, sel = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getContentBounds[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/applyLayerMask[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_deletePixels_noGrowing[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingStarted[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_deletePixels_withGrowing[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingRightDown[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getCanvasSizedSubImage[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingEnded_Fail[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getSetImage[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/filterWithoutDialogFinished[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changeImageForUndoRedo[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/enlargeCanvas[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogAccepted[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getSelectedSubImage[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tmpDrawingLayer[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getFilterSourceImage[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/tweenCalculatingEnded_OK[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_noGrowing[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/createCanvasSizedTmpImage[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingDown[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/crop_keepPixels_withGrowingLeft[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/createMovementEdit[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/duplicate[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changePreviewImage_OK[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/getImageForFilterDialogs[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/changePreviewImage_Fail[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/cropToCanvasSize[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/startPreviewing[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogCanceled_OK[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/ImageLayerTest/onDialogCanceled_Fail[4: mask = NO, transl = NO, sel = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changeStackIndex[0: class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changingTheBlendingMode[0: class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/addingAMask[0: class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/duplicating[0: class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/renaming[0: class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/resizing[0: class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/hidingAndShowing[0: class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/maskEnablingAndDisabling[0: class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/deletingTheMask[0: class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changingTheOpacity[0: class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/maskLinking[0: class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/activating[0: class pixelitor.layers.ImageLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changeStackIndex[1: class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changingTheBlendingMode[1: class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/addingAMask[1: class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/duplicating[1: class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/renaming[1: class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/resizing[1: class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/hidingAndShowing[1: class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/maskEnablingAndDisabling[1: class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/deletingTheMask[1: class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changingTheOpacity[1: class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/maskLinking[1: class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/activating[1: class pixelitor.layers.ImageLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changeStackIndex[2: class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changingTheBlendingMode[2: class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 42,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/addingAMask[2: class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/duplicating[2: class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/renaming[2: class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/resizing[2: class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/hidingAndShowing[2: class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/maskEnablingAndDisabling[2: class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/deletingTheMask[2: class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changingTheOpacity[2: class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/maskLinking[2: class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/activating[2: class pixelitor.layers.TextLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changeStackIndex[3: class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changingTheBlendingMode[3: class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/addingAMask[3: class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/duplicating[3: class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/renaming[3: class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/resizing[3: class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/hidingAndShowing[3: class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/maskEnablingAndDisabling[3: class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/deletingTheMask[3: class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changingTheOpacity[3: class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/maskLinking[3: class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/activating[3: class pixelitor.layers.TextLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changeStackIndex[4: class pixelitor.layers.AdjustmentLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changingTheBlendingMode[4: class pixelitor.layers.AdjustmentLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 12,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/addingAMask[4: class pixelitor.layers.AdjustmentLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/duplicating[4: class pixelitor.layers.AdjustmentLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/renaming[4: class pixelitor.layers.AdjustmentLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/resizing[4: class pixelitor.layers.AdjustmentLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/hidingAndShowing[4: class pixelitor.layers.AdjustmentLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/maskEnablingAndDisabling[4: class pixelitor.layers.AdjustmentLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 2,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/deletingTheMask[4: class pixelitor.layers.AdjustmentLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changingTheOpacity[4: class pixelitor.layers.AdjustmentLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/maskLinking[4: class pixelitor.layers.AdjustmentLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/activating[4: class pixelitor.layers.AdjustmentLayer, mask = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changeStackIndex[5: class pixelitor.layers.AdjustmentLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changingTheBlendingMode[5: class pixelitor.layers.AdjustmentLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/addingAMask[5: class pixelitor.layers.AdjustmentLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/duplicating[5: class pixelitor.layers.AdjustmentLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/renaming[5: class pixelitor.layers.AdjustmentLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 3,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/resizing[5: class pixelitor.layers.AdjustmentLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/hidingAndShowing[5: class pixelitor.layers.AdjustmentLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/maskEnablingAndDisabling[5: class pixelitor.layers.AdjustmentLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/deletingTheMask[5: class pixelitor.layers.AdjustmentLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/changingTheOpacity[5: class pixelitor.layers.AdjustmentLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/maskLinking[5: class pixelitor.layers.AdjustmentLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/LayerTest/activating[5: class pixelitor.layers.AdjustmentLayer, mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/TextLayerTest/enlargeCanvas[0: mask = NO]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/TextLayerTest/commitSettings[0: mask = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/TextLayerTest/createMovementEdit[0: mask = NO]"
+	},
+	{
+		"durationMillis": 20,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/TextLayerTest/replaceWithRasterized[0: mask = NO]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/TextLayerTest/enlargeCanvas[1: mask = YES]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/TextLayerTest/commitSettings[1: mask = YES]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/TextLayerTest/createMovementEdit[1: mask = YES]"
+	},
+	{
+		"durationMillis": 27,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/layers/TextLayerTest/replaceWithRasterized[1: mask = YES]"
+	},
+	{
+		"durationMillis": 40,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/AbstractBrushToolTest/trace[0: Brush Tool]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/AbstractBrushToolTest/trace[1: Eraser Tool]"
+	},
+	{
+		"durationMillis": 18,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/AbstractBrushToolTest/trace[2: Clone Stamp Tool]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/AbstractBrushToolTest/trace[3: Smudge Tool]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[0: tool = Move Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[1: tool = Move Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[2: tool = Move Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[3: tool = Move Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[4: tool = Move Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[5: tool = Move Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[6: tool = Move Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[7: tool = Move Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[8: tool = Move Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[9: tool = Move Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[10: tool = Move Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[11: tool = Move Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[12: tool = Move Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[13: tool = Move Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[14: tool = Move Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[15: tool = Move Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 16,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[16: tool = Crop Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[17: tool = Crop Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 13,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[18: tool = Crop Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[19: tool = Crop Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 13,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[20: tool = Crop Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[21: tool = Crop Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 13,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[22: tool = Crop Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 12,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[23: tool = Crop Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 16,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[24: tool = Crop Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 13,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[25: tool = Crop Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 12,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[26: tool = Crop Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 12,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[27: tool = Crop Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 13,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[28: tool = Crop Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 13,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[29: tool = Crop Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 12,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[30: tool = Crop Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 13,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[31: tool = Crop Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[32: tool = Selection Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[33: tool = Selection Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[34: tool = Selection Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[35: tool = Selection Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[36: tool = Selection Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[37: tool = Selection Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[38: tool = Selection Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[39: tool = Selection Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[40: tool = Selection Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[41: tool = Selection Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[42: tool = Selection Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 12,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[43: tool = Selection Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[44: tool = Selection Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[45: tool = Selection Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[46: tool = Selection Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[47: tool = Selection Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[48: tool = Brush Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[49: tool = Brush Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[50: tool = Brush Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[51: tool = Brush Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[52: tool = Brush Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[53: tool = Brush Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[54: tool = Brush Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[55: tool = Brush Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[56: tool = Brush Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[57: tool = Brush Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[58: tool = Brush Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[59: tool = Brush Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[60: tool = Brush Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[61: tool = Brush Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[62: tool = Brush Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[63: tool = Brush Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[64: tool = Clone Stamp Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[65: tool = Clone Stamp Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[66: tool = Clone Stamp Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[67: tool = Clone Stamp Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[68: tool = Clone Stamp Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[69: tool = Clone Stamp Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[70: tool = Clone Stamp Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[71: tool = Clone Stamp Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[72: tool = Clone Stamp Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[73: tool = Clone Stamp Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[74: tool = Clone Stamp Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[75: tool = Clone Stamp Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[76: tool = Clone Stamp Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[77: tool = Clone Stamp Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[78: tool = Clone Stamp Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[79: tool = Clone Stamp Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[80: tool = Eraser Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[81: tool = Eraser Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[82: tool = Eraser Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[83: tool = Eraser Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[84: tool = Eraser Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[85: tool = Eraser Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[86: tool = Eraser Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[87: tool = Eraser Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[88: tool = Eraser Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[89: tool = Eraser Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[90: tool = Eraser Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[91: tool = Eraser Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[92: tool = Eraser Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[93: tool = Eraser Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[94: tool = Eraser Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[95: tool = Eraser Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[96: tool = Smudge Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[97: tool = Smudge Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[98: tool = Smudge Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[99: tool = Smudge Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 12,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[100: tool = Smudge Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[101: tool = Smudge Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[102: tool = Smudge Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[103: tool = Smudge Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 15,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[104: tool = Smudge Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 12,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[105: tool = Smudge Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[106: tool = Smudge Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[107: tool = Smudge Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[108: tool = Smudge Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[109: tool = Smudge Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[110: tool = Smudge Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[111: tool = Smudge Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 13,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[112: tool = Gradient Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[113: tool = Gradient Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[114: tool = Gradient Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[115: tool = Gradient Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[116: tool = Gradient Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[117: tool = Gradient Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[118: tool = Gradient Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[119: tool = Gradient Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[120: tool = Gradient Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[121: tool = Gradient Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[122: tool = Gradient Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[123: tool = Gradient Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[124: tool = Gradient Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[125: tool = Gradient Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[126: tool = Gradient Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[127: tool = Gradient Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[128: tool = Paint Bucket Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[129: tool = Paint Bucket Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[130: tool = Paint Bucket Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[131: tool = Paint Bucket Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[132: tool = Paint Bucket Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[133: tool = Paint Bucket Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[134: tool = Paint Bucket Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[135: tool = Paint Bucket Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[136: tool = Paint Bucket Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[137: tool = Paint Bucket Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[138: tool = Paint Bucket Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[139: tool = Paint Bucket Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[140: tool = Paint Bucket Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[141: tool = Paint Bucket Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[142: tool = Paint Bucket Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[143: tool = Paint Bucket Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[144: tool = Color Picker Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[145: tool = Color Picker Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[146: tool = Color Picker Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[147: tool = Color Picker Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[148: tool = Color Picker Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[149: tool = Color Picker Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[150: tool = Color Picker Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[151: tool = Color Picker Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[152: tool = Color Picker Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[153: tool = Color Picker Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[154: tool = Color Picker Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[155: tool = Color Picker Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[156: tool = Color Picker Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[157: tool = Color Picker Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[158: tool = Color Picker Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[159: tool = Color Picker Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[160: tool = Pen Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[161: tool = Pen Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[162: tool = Pen Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[163: tool = Pen Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[164: tool = Pen Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[165: tool = Pen Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[166: tool = Pen Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[167: tool = Pen Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[168: tool = Pen Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[169: tool = Pen Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[170: tool = Pen Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 9,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[171: tool = Pen Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 8,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[172: tool = Pen Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 11,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[173: tool = Pen Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 13,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[174: tool = Pen Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 10,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[175: tool = Pen Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 39,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[176: tool = Shapes Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 16,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[177: tool = Shapes Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[178: tool = Shapes Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[179: tool = Shapes Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 20,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[180: tool = Shapes Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[181: tool = Shapes Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[182: tool = Shapes Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 13,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[183: tool = Shapes Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[184: tool = Shapes Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[185: tool = Shapes Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 15,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[186: tool = Shapes Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 16,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[187: tool = Shapes Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 16,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[188: tool = Shapes Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 15,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[189: tool = Shapes Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[190: tool = Shapes Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 14,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[191: tool = Shapes Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[192: tool = Hand Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[193: tool = Hand Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[194: tool = Hand Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[195: tool = Hand Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 4,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[196: tool = Hand Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[197: tool = Hand Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[198: tool = Hand Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[199: tool = Hand Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[200: tool = Hand Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[201: tool = Hand Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[202: tool = Hand Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[203: tool = Hand Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[204: tool = Hand Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[205: tool = Hand Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[206: tool = Hand Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 5,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[207: tool = Hand Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[208: tool = Zoom Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[209: tool = Zoom Tool, alt = YES, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[210: tool = Zoom Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[211: tool = Zoom Tool, alt = YES, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[212: tool = Zoom Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[213: tool = Zoom Tool, alt = YES, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[214: tool = Zoom Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[215: tool = Zoom Tool, alt = YES, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[216: tool = Zoom Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[217: tool = Zoom Tool, alt = NO, ctrl = YES, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[218: tool = Zoom Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[219: tool = Zoom Tool, alt = NO, ctrl = YES, shift = NO, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[220: tool = Zoom Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[221: tool = Zoom Tool, alt = NO, ctrl = NO, shift = YES, mouseButton = RIGHT]"
+	},
+	{
+		"durationMillis": 6,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[222: tool = Zoom Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = LEFT]"
+	},
+	{
+		"durationMillis": 7,
+		"result": "PASSED",
+		"uniformPath": "pixelitor/tools/ToolTest/simpleStroke[223: tool = Zoom Tool, alt = NO, ctrl = NO, shift = NO, mouseButton = RIGHT]"
+	}
+]

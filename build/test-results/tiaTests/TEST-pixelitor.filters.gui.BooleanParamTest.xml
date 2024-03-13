@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BooleanParam tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:26" hostname="emre-XPS-15" time="0.008">
+  <properties/>
+  <testcase name="setValue()" classname="pixelitor.filters.gui.BooleanParamTest" time="0.004"/>
+  <testcase name="is IGNORE_RANDOMIZE working" classname="pixelitor.filters.gui.BooleanParamTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

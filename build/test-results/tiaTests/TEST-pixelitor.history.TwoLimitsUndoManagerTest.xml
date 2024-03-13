@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pixelitor.history.TwoLimitsUndoManagerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:25" hostname="emre-XPS-15" time="0.112">
+  <properties/>
+  <testcase name="overFillingLightEditsUndoManager()" classname="pixelitor.history.TwoLimitsUndoManagerTest" time="0.068"/>
+  <testcase name="fillingUpUndoManager()" classname="pixelitor.history.TwoLimitsUndoManagerTest" time="0.018"/>
+  <testcase name="overFillingHeavyEditsUndoManager()" classname="pixelitor.history.TwoLimitsUndoManagerTest" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

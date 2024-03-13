@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Guides tests" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:25" hostname="emre-XPS-15" time="0.05">
+  <properties/>
+  <testcase name="vertical line, relative" classname="pixelitor.guides.GuidesTest" time="0.01"/>
+  <testcase name="horizontal line, absolute" classname="pixelitor.guides.GuidesTest" time="0.009"/>
+  <testcase name="vertical line, absolute" classname="pixelitor.guides.GuidesTest" time="0.01"/>
+  <testcase name="horizontal line, relative" classname="pixelitor.guides.GuidesTest" time="0.008"/>
+  <testcase name="relative grid" classname="pixelitor.guides.GuidesTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

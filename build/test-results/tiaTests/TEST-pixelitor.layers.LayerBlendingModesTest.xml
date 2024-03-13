@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Layer blending mode tests" tests="17" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:22" hostname="emre-XPS-15" time="0.819">
+  <properties/>
+  <testcase name="linearDodge()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.281"/>
+  <testcase name="lighten()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.043"/>
+  <testcase name="hue()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.037"/>
+  <testcase name="saturation()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.037"/>
+  <testcase name="colorDodge()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.034"/>
+  <testcase name="screen()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.03"/>
+  <testcase name="difference()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.033"/>
+  <testcase name="overlay()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.034"/>
+  <testcase name="darken()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.03"/>
+  <testcase name="luminosity()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.031"/>
+  <testcase name="normal()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.021"/>
+  <testcase name="softLight()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.031"/>
+  <testcase name="color()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.027"/>
+  <testcase name="hardLight()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.028"/>
+  <testcase name="multiply()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.03"/>
+  <testcase name="colorBurn()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.03"/>
+  <testcase name="exclusion()" classname="pixelitor.layers.LayerBlendingModesTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pixelitor.compactions.CompActionTest" tests="40" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:26" hostname="emre-XPS-15" time="0.673">
+  <properties/>
+  <testcase name="flipHorizontal[0: translation = NO, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.018"/>
+  <testcase name="rotate180[0: translation = NO, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.014"/>
+  <testcase name="rotate270[0: translation = NO, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.012"/>
+  <testcase name="resize[0: translation = NO, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.016"/>
+  <testcase name="enlargeCanvas[0: translation = NO, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.016"/>
+  <testcase name="rotate90[0: translation = NO, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.012"/>
+  <testcase name="crop[0: translation = NO, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.023"/>
+  <testcase name="flipVertical[0: translation = NO, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.013"/>
+  <testcase name="flipHorizontal[1: translation = YES, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.016"/>
+  <testcase name="rotate180[1: translation = YES, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.015"/>
+  <testcase name="rotate270[1: translation = YES, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.014"/>
+  <testcase name="resize[1: translation = YES, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.015"/>
+  <testcase name="enlargeCanvas[1: translation = YES, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.014"/>
+  <testcase name="rotate90[1: translation = YES, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.013"/>
+  <testcase name="crop[1: translation = YES, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.021"/>
+  <testcase name="flipVertical[1: translation = YES, selection = NO, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.009"/>
+  <testcase name="flipHorizontal[2: translation = YES, selection = YES, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.013"/>
+  <testcase name="rotate180[2: translation = YES, selection = YES, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.012"/>
+  <testcase name="rotate270[2: translation = YES, selection = YES, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.01"/>
+  <testcase name="resize[2: translation = YES, selection = YES, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.013"/>
+  <testcase name="enlargeCanvas[2: translation = YES, selection = YES, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.012"/>
+  <testcase name="rotate90[2: translation = YES, selection = YES, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.012"/>
+  <testcase name="crop[2: translation = YES, selection = YES, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.044"/>
+  <testcase name="flipVertical[2: translation = YES, selection = YES, mask = NO, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.013"/>
+  <testcase name="flipHorizontal[3: translation = YES, selection = YES, mask = YES, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.013"/>
+  <testcase name="rotate180[3: translation = YES, selection = YES, mask = YES, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.012"/>
+  <testcase name="rotate270[3: translation = YES, selection = YES, mask = YES, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.013"/>
+  <testcase name="resize[3: translation = YES, selection = YES, mask = YES, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.013"/>
+  <testcase name="enlargeCanvas[3: translation = YES, selection = YES, mask = YES, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.013"/>
+  <testcase name="rotate90[3: translation = YES, selection = YES, mask = YES, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.013"/>
+  <testcase name="crop[3: translation = YES, selection = YES, mask = YES, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.036"/>
+  <testcase name="flipVertical[3: translation = YES, selection = YES, mask = YES, layers = ONE]" classname="pixelitor.compactions.CompActionTest" time="0.012"/>
+  <testcase name="flipHorizontal[4: translation = YES, selection = YES, mask = YES, layers = MORE]" classname="pixelitor.compactions.CompActionTest" time="0.012"/>
+  <testcase name="rotate180[4: translation = YES, selection = YES, mask = YES, layers = MORE]" classname="pixelitor.compactions.CompActionTest" time="0.013"/>
+  <testcase name="rotate270[4: translation = YES, selection = YES, mask = YES, layers = MORE]" classname="pixelitor.compactions.CompActionTest" time="0.013"/>
+  <testcase name="resize[4: translation = YES, selection = YES, mask = YES, layers = MORE]" classname="pixelitor.compactions.CompActionTest" time="0.013"/>
+  <testcase name="enlargeCanvas[4: translation = YES, selection = YES, mask = YES, layers = MORE]" classname="pixelitor.compactions.CompActionTest" time="0.012"/>
+  <testcase name="rotate90[4: translation = YES, selection = YES, mask = YES, layers = MORE]" classname="pixelitor.compactions.CompActionTest" time="0.011"/>
+  <testcase name="crop[4: translation = YES, selection = YES, mask = YES, layers = MORE]" classname="pixelitor.compactions.CompActionTest" time="0.038"/>
+  <testcase name="flipVertical[4: translation = YES, selection = YES, mask = YES, layers = MORE]" classname="pixelitor.compactions.CompActionTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

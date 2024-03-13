@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CropBox tests" tests="13" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:25" hostname="emre-XPS-15" time="0.049">
+  <properties/>
+  <testcase name="resize by south east handle" classname="pixelitor.tools.crop.CropBoxTest" time="0.005"/>
+  <testcase name="resize by north west handle" classname="pixelitor.tools.crop.CropBoxTest" time="0.002"/>
+  <testcase name="keepAspectRatio by west or east handle" classname="pixelitor.tools.crop.CropBoxTest" time="0.003"/>
+  <testcase name="keepAspectRatio by north west handle" classname="pixelitor.tools.crop.CropBoxTest" time="0.003"/>
+  <testcase name="resize by north handle" classname="pixelitor.tools.crop.CropBoxTest" time="0.003"/>
+  <testcase name="resize by east handle" classname="pixelitor.tools.crop.CropBoxTest" time="0.003"/>
+  <testcase name="resize by west handle" classname="pixelitor.tools.crop.CropBoxTest" time="0.002"/>
+  <testcase name="resize by south handle" classname="pixelitor.tools.crop.CropBoxTest" time="0.002"/>
+  <testcase name="keepAspectRatio by north east handle" classname="pixelitor.tools.crop.CropBoxTest" time="0.002"/>
+  <testcase name="aspectRatio" classname="pixelitor.tools.crop.CropBoxTest" time="0.004"/>
+  <testcase name="keepAspectRatio by north or south handle" classname="pixelitor.tools.crop.CropBoxTest" time="0.002"/>
+  <testcase name="resize by south west handle" classname="pixelitor.tools.crop.CropBoxTest" time="0.003"/>
+  <testcase name="resize by north east handle" classname="pixelitor.tools.crop.CropBoxTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

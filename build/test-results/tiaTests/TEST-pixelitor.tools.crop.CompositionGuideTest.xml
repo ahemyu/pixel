@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CompositionGuide tests" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:25" hostname="emre-XPS-15" time="0.06">
+  <properties/>
+  <testcase name="grid, &lt; 2*size" classname="pixelitor.tools.crop.CompositionGuideTest" time="0.011"/>
+  <testcase name="grid, &gt; 2*size" classname="pixelitor.tools.crop.CompositionGuideTest" time="0.003"/>
+  <testcase name="rule of thirds" classname="pixelitor.tools.crop.CompositionGuideTest" time="0.003"/>
+  <testcase name="grid, = 2*size" classname="pixelitor.tools.crop.CompositionGuideTest" time="0.003"/>
+  <testcase name="diagonals, width &gt;= height" classname="pixelitor.tools.crop.CompositionGuideTest" time="0.003"/>
+  <testcase name="golden sections" classname="pixelitor.tools.crop.CompositionGuideTest" time="0.003"/>
+  <testcase name="triangles, from top left to bottom down" classname="pixelitor.tools.crop.CompositionGuideTest" time="0.003"/>
+  <testcase name="spiral, starts from bottom left" classname="pixelitor.tools.crop.CompositionGuideTest" time="0.004"/>
+  <testcase name="triangles, from bottom down to top left" classname="pixelitor.tools.crop.CompositionGuideTest" time="0.003"/>
+  <testcase name="diagonals, height &gt; width" classname="pixelitor.tools.crop.CompositionGuideTest" time="0.004"/>
+  <testcase name="no guide" classname="pixelitor.tools.crop.CompositionGuideTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

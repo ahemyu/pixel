@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Path tests" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:24" hostname="emre-XPS-15" time="0.148">
+  <properties/>
+  <testcase name="conversionsForRectangle()" classname="pixelitor.tools.pen.PathTest" time="0.09"/>
+  <testcase name="transform()" classname="pixelitor.tools.pen.PathTest" time="0.017"/>
+  <testcase name="conversionsForEllipse()" classname="pixelitor.tools.pen.PathTest" time="0.016"/>
+  <testcase name="deletingSubPathPoints()" classname="pixelitor.tools.pen.PathTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

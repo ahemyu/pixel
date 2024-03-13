@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ParamSet tests" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-03-11T09:50:25" hostname="emre-XPS-15" time="0.077">
+  <properties/>
+  <testcase name="hasGradient()" classname="pixelitor.filters.gui.ParamSetTest" time="0.015"/>
+  <testcase name="copyState()/setState()" classname="pixelitor.filters.gui.ParamSetTest" time="0.009"/>
+  <testcase name="setFinalAnimationSettingMode()" classname="pixelitor.filters.gui.ParamSetTest" time="0.008"/>
+  <testcase name="filterTriggering()" classname="pixelitor.filters.gui.ParamSetTest" time="0.008"/>
+  <testcase name="randomize()" classname="pixelitor.filters.gui.ParamSetTest" time="0.011"/>
+  <testcase name="reset()" classname="pixelitor.filters.gui.ParamSetTest" time="0.008"/>
+  <testcase name="canBeAnimated()" classname="pixelitor.filters.gui.ParamSetTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
